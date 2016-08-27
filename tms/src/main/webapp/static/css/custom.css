@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+#main_header{
+	padding:10px;
+	background-color:gray;
+	height:100px;
+	width:100%; 
+}
