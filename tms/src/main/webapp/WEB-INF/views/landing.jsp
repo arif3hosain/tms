@@ -15,8 +15,8 @@
 <body>
 <div id="main_header">
 <form class="pull-right">
-Username <input type="text" name="username" />
-Password <input type="password" name="password" />
+<label>Username</label> <input type="text" name="username" />
+<label>Password</label> <input type="password" name="password" />
 <button type="button" class="btb btb-primary sm">Login</button>
 </form>
 </div>
